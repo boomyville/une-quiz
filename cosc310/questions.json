@@ -1,0 +1,515 @@
+[
+  {
+    "question": "Which of the following is a good objective?",
+    "options": [
+      "Lay 200 bricks by tomorrow",
+      "Construct a building",
+      "Implement a new telecommunication system",
+      "Develop a program for proving network maintenance"
+    ]
+  },
+  {
+    "question": "You are a member of your company's project office. The company is running many concurrent projects; most of them share a resource pool. Understanding how resources are utilised across projects is seen as being essential to cost effectiveness and profitability. You recently received an inquiry to assess the benefits of using project management software to manage the company's project portfolio. Which of the following is true?",
+    "options": [
+      "Project management software has the capability to help organise resource pools.",
+      "Project management software will dramatically simplify the task of levelling resources across projects with different project management teams.",
+      "Supporting project portfolio management is not the project office's business.",
+      "Evaluating project management software is not the project office's business."
+    ]
+  },
+  {
+    "question": "A program is:",
+    "options": [
+      "A group of projects managed in a coordinated way to obtain benefits not available from managing them individually.",
+      "A number of subprojects divided into manageable components enabling a project team to ensure the completion of a desired outcome.",
+      "A project plan developed by key management for a desired outcome.",
+      "A regular, ongoing operation, which involves many projects."
+    ]
+  },
+  {
+    "question": "Which is not a true statement about the 5 project process group?",
+    "options": [
+      "Concerned with specifying and creating the product of the project.",
+      "Concerned with describing and organizing the work of the project.",
+      "Linked by the product they produce.",
+      "Execute the project as a whole, and for each phase"
+    ]
+  },
+  {
+    "question": "During project planning in a matrix organization, the project manager determines that additional human resources are needed. From whom would he request these resources?",
+    "options": [
+      "Functional manager",
+      "Project manager",
+      "Team",
+      "Project sponsor"
+    ]
+  },
+  {
+    "question": "Project Stakeholders are:",
+    "options": [
+      "Individuals and organizations who are actively involved in the project, or whose interests may be positively or negatively affected as a result of project execution or successful project completion.",
+      "Anybody who is actively working on the project",
+      "The plan sponsor, project manager, team members, client",
+      "The customer"
+    ]
+  },
+  {
+    "question": "As a project manager, you realize that handling Project Stakeholder expectations is an important priority. Which statement regarding project stakeholders is NOT correct?",
+    "options": [
+      "Stakeholders are individuals and organizations whose interests are only positively affected by the project.",
+      "Some key stakeholders include Project Manager, Performing organization, Project team members, Customer and Sponsor.",
+      "Project stakeholders can be categorized as internal and external, sellers and contractors, individual citizens, government agencies and media outlets etc.",
+      "Stakeholder expectations may be difficult to manage because stakeholders often have conflicting objectives."
+    ]
+  },
+  {
+    "question": "The Project Life Cycle:",
+    "options": [
+      "Defines what type work should be done in each phase",
+      "Defines the Product Life Cycle",
+      "Has distinct phases that are the same for all projects",
+      "Has gates that must be completed before moving onto the next phase of the project"
+    ]
+  },
+  {
+    "question": "Which of the following could NOT be the expected benefits of Internal Project Execution.?",
+    "options": [
+      "Generate/bring revenue directly.",
+      "Improved Efficiency.",
+      "Reduced Turnaround time.",
+      "Improved Quality"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT an example of Non-functional requirements?",
+    "options": [
+      "Error Handling",
+      "User-friendliness of GUI.",
+      "Data Privacy and security",
+      "Flexibility and Scalability of the system."
+    ]
+  },
+  {
+    "question": "What does having a project charter/dossier do for the project managers?",
+    "options": [
+      "Gives the project manager authority",
+      "Describes the details of what needs to be done",
+      "Describes the names of all team members",
+      "Describes the project's history"
+    ]
+  },
+  {
+    "question": "Project initiation is all of the following except:",
+    "options": [
+      "Its inputs are product description, strategic plan, constraints, and assumptions",
+      "A process of formally recognizing that a new project exists",
+      "A process of formally recognizing that an existing project should continue into its next phase",
+      "It links the new project to the ongoing work of the performing organization"
+    ]
+  },
+  {
+    "question": "The project manager should be assigned ___________ as an output from the Initiation process:",
+    "options": [
+      "As early in the project as is feasible",
+      "Once a budget has been approved",
+      "After the stakeholders have approved the assignment",
+      "As soon as the project plan is ready to be executed"
+    ]
+  },
+  {
+    "question": "Who arranges the project kickoff meeting?",
+    "options": [
+      "Project Management Office",
+      "Software Project Manager",
+      "Functional Manager",
+      "Project Acquisition Team"
+    ]
+  },
+  {
+    "question": "You are working through the initiation phase of your project for a new client that involves opening new operations in three new locations. Several of the functional managers have very different views on how the project should be managed and what the deliverable should be. As the project manager for this project, which of the following is the best thing for you to do?",
+    "options": [
+      "Work with leadership from each area to collaboratively engineer a mutually acceptable solution",
+      "Ask the client when they will be in agreement on project requirements",
+      "Make sure the terms and conditions of the contract are very very clear, especially how changes will be managed",
+      "Advise the client they must reach an agreement on both issues within two weeks"
+    ]
+  },
+  {
+    "question": "Should historical information be used during resource planning?",
+    "options": [
+      "Yes, as historical information is available can provide insight into what type of resources were required on previous projects of similar nature.",
+      "No, since there is rarely any correlation between resource expectations on one project when compared to another.",
+      "No, since historical information is usually misleading, given the cost of resources have undoubtedly changed since the completion of the prior project.",
+      "Yes, since historical information can be easily adjusted to accurately determine current project costs."
+    ]
+  },
+  {
+    "question": "You are asked to take over a project with a lot of pending scope change requests. To assess the change impact, you should get hold of:",
+    "options": [
+      "WBS",
+      "Scope statement",
+      "Project Plan",
+      "Scope Management Plan"
+    ]
+  },
+  {
+    "question": "Scope changes on a project are inevitable, however, scope changes can be minimized by:",
+    "options": [
+      "Asking the sponsor to actively participate in the planning",
+      "Spending more time developing the scope baseline",
+      "Spending more time analyzing the estimates",
+      "Ignoring change requests from stakeholders"
+    ]
+  },
+  {
+    "question": "The WBS helps the team to FOCUS! It is an excellent tool for communications and the basis for developing realistic estimates. You can best describe a WBS as a tool for tracking the:",
+    "options": [
+      "Project Scope",
+      "Project Schedule",
+      "Assigned Resources",
+      "Project Costs"
+    ]
+  },
+  {
+    "question": "Work package is a:",
+    "options": [
+      "Element at the lowest level of WBS",
+      "Task with a unique identifier",
+      "Required level of reporting",
+      "Task that can be assigned to only one person"
+    ]
+  },
+  {
+    "question": "A new project manager has just been assigned a project that is in progress. The project is two weeks behind schedule. The team members are about to be distributed to another project based on original time estimates provided by the functional manager. What is the FIRST step the project manager should take?",
+    "options": [
+      "She should check the project plan for contingencies concerning resources and talk to the functional manager",
+      "She should first revise the Gantt chart with new timelines",
+      "She should initially contact the steering committee and begin with a new team",
+      "She should first show sympathy with the current team and delay decision-making for another week"
+    ]
+  },
+  {
+    "question": "As the project manager you will be required to report periodically to upper management on the progress of the project. What item below will you require to report your progress as the basis for the budget, schedule, resource allocation and scope definition?",
+    "options": [
+      "Work breakdown schedule",
+      "Precedence diagramming method",
+      "Project character",
+      "Project management plan"
+    ]
+  },
+  {
+    "question": "First thing Tuesday morning, one of your team members drops into your office looking very thrilled. He eagerly tells you he is adding extra functionality to the project without imparting the cost and the schedule. As the project manager your first step should be:",
+    "options": [
+      "Understand what the new functionality will add to the project and then take action accordingly",
+      "Implement change control processes to track the change",
+      "Inform the customer of the change to the scope",
+      "Notify the functional manager that scope changes are not approved"
+    ]
+  },
+  {
+    "question": "The difference between an activity’s scheduled completion and actual completion is called:",
+    "options": [
+      "Schedule variance",
+      "Earned value",
+      "Schedule performance index",
+      "Budget variance"
+    ]
+  },
+  {
+    "question": "Your manager gives you a scope of work, asks you to begin work immediately, and provides her with a schedule. What should you do first as a project manager?",
+    "options": [
+      "Identify the stakeholders and make sure their requirements are included in the scope of work",
+      "Begin estimating the task necessary to complete the scope of work",
+      "Create an activity list and then begin to assign the task to resources",
+      "Identify a team and obtain approval for their participation from their functional managers"
+    ]
+  },
+  {
+    "question": "Your developer has provided you with an estimate based on the “cost per line of code”. What type of estimate did the developer use to provide this information?",
+    "options": [
+      "Parametric estimation",
+      "Bottom-up estimation",
+      "Analogues estimation",
+      "PERT estimation"
+    ]
+  },
+  {
+    "question": "Cost estimates may not be expressed in:",
+    "options": [
+      "Units of production",
+      "Units of currency",
+      "Staff hours",
+      "Staff days"
+    ]
+  },
+  {
+    "question": "Analogues estimating is a form of:",
+    "options": [
+      "Expert judgment",
+      "Earned value",
+      "Cost planning",
+      "Parametric modelling"
+    ]
+  },
+  {
+    "question": "You work in a matrix organization when a team member comes to you to admit he is having trouble with his task. Although not yet in serious trouble, the team member admits he is uncertain of how to perform part of the work on the task. He suggests a training class available next week. Where should the cost of the training come from?",
+    "options": [
+      "The project budget",
+      "Switch to a trained resource to avoid the cost",
+      "The human resource department budget",
+      "The team member's functional department budget"
+    ]
+  },
+  {
+    "question": "If PV is $24000 and AC is $27000 and EV is $25000, we can report the project as follow:",
+    "options": [
+      "Ahead of schedule and over budget",
+      "Behind schedule and over budget",
+      "Ahead of schedule and behind budget",
+      "Behind schedule and under budget"
+    ]
+  },
+  {
+    "question": "You are in charge of developing a new product for a bank. Your quality metrics are based on the 80th percentile of each of the last three products developed. This is an example of the:",
+    "options": [
+      "Metrics",
+      "Statistical sampling",
+      "Benchmarking",
+      "Operational definitions"
+    ]
+  },
+  {
+    "question": "Project communication management includes the process required to ensure:",
+    "options": [
+      "all of the other answers",
+      "timely and appropriate generation collection and dissemination of project information",
+      "storage and ultimate disposition of project information",
+      "critical links among people, ideas and information"
+    ]
+  },
+  {
+    "question": "Which is not used as a tool and technique for information gathering during the risk identification process?",
+    "options": [
+      "Simulation",
+      "SWOT Analysis (exploring Strengths, Weaknesses, Opportunities, and Threats)",
+      "Delphi Technique (a technique that aims to collect opinions on a particular topic to gain consensus)",
+      "Interviewing"
+    ]
+  },
+  {
+    "question": "Qualitative risk analysis is the process of assessing the impact and likelihood of identified risks. What is not true about this process?",
+    "options": [
+      "The process provides detailed information, such as the probability of achieving objectives.",
+      "The process should be revisited during the project life cycle to stay current with changes in the project’s risks.",
+      "The process evaluates the quality of the risk information available.",
+      "The process determines the importance of addressing and planning responses for specific risks and their time criticality."
+    ]
+  },
+  {
+    "question": "Not all stakeholders are equal. It is helpful to identify and classify the type of stakeholders and clearly define the roles and responsibilities of each group of stakeholders. It is important to define who provides input, who votes on what issues, and who has vote power. Which of the following best describes why stakeholders are necessary for a project?",
+    "options": [
+      "Stakeholder /customer satisfaction is the number one success criterion",
+      "They determine the project schedule, deliverables, and requirements",
+      "They supply the resources and resource constraints on the project",
+      "They help provide assumptions, the WBS, and the management plan"
+    ]
+  },
+  {
+    "question": "Executing processes are concerned with:",
+    "options": [
+      "Devising and maintaining a workable method to accomplish the business need that the project was undertaken to address",
+      "Recognizing that a project or phase should begin",
+      "Coordinating people and other resources to carry out the plan",
+      "Ensuring that the project objectives are met by monitoring and measuring progress and taking corrective action when necessary"
+    ]
+  },
+  {
+    "question": "Where is the bulk of the project budget spent?",
+    "options": [
+      "Project plan execution",
+      "Scope management",
+      "Project Planning",
+      "Project closing"
+    ]
+  },
+  {
+    "question": "During the execution of a project, the most common source of conflict within the project team is likely to be:",
+    "options": [
+      "Schedules & Priorities",
+      "Personal Goals",
+      "Technical opinions",
+      "Cost"
+    ]
+  },
+  {
+    "question": "During the execution of your project plan, you discover that a task team is unaware that deliverables from another task will be late, holding up their own progress. As a result, you should:",
+    "options": [
+      "Revise the communication plan",
+      "Revise the project schedule",
+      "Revise the project budget",
+      "Revise the quality plan"
+    ]
+  },
+  {
+    "question": "Your team has created several documents that serve as historical records for future projects. These historical documents are archived:",
+    "options": [
+      "During closure.",
+      "Throughout the project.",
+      "Before the end of planning.",
+      "Before the end of execution."
+    ]
+  },
+  {
+    "question": "Controlling processes are concerned with:",
+    "options": [
+      "Ensuring that the project objectives are met by monitoring and measuring progress and taking corrective action when necessary",
+      "Coordinating people and other resources to carry out the plan",
+      "Recognizing that a project or phase should begin",
+      "Devising and maintaining a workable scheme to accomplish the business need that the project was undertaken to address"
+    ]
+  },
+  {
+    "question": "Pareto diagrams, Cause and Effect Diagrams, Flow Charts and Trend Analysis are used during:",
+    "options": [
+      "Project Executing/Monitoring & Control Phase",
+      "Project Initiation and Planning Phase",
+      "Project Closure Phase",
+      "Project Handover Phase"
+    ]
+  },
+  {
+    "question": "A negative cost variance for a period indicates:",
+    "options": [
+      "Cost overrun",
+      "Cost underrun",
+      "Scope creep",
+      "None of above"
+    ]
+  },
+  {
+    "question": "Earned value analysis is one of the commonly used methods of performance measurement which integrates:",
+    "options": [
+      "Scope, Cost and Schedule measures",
+      "Scope and Cost measures",
+      "Scope and Schedule measures",
+      "Cost and Schedule measures"
+    ]
+  },
+  {
+    "question": "The value of 1.25 as the cost performance index indicates:",
+    "options": [
+      "The cost is under control for the reporting period",
+      "Cost overrun during the reporting period",
+      "More scope changes came in during the reporting period",
+      "We should not assume anything while reporting the performance"
+    ]
+  },
+  {
+    "question": "Your team has created several documents that serve as historical records for future projects. These historical documents are archived:",
+    "options": [
+      "During closure",
+      "Throughout the project",
+      "Before the end of the Planning process",
+      "Before the end of the Execution process"
+    ]
+  },
+  {
+    "question": "All of the following statements are true of project closure except:",
+    "options": [
+      "It should be closed with the project execution",
+      "It includes verifying and documenting project results",
+      "It includes a collection of project records",
+      "It includes an analysis of project success and effectiveness"
+    ]
+  },
+  {
+    "question": "Proper closure for a project includes:",
+    "options": [
+      "all of the other answers",
+      "Collection of project records",
+      "Confirm that the results meet the final specifications",
+      "Analysis of project success and effectiveness"
+    ]
+  },
+  {
+    "question": "Software project management involves:",
+    "options": [
+      "all of the other answers",
+      "The development of a project plan",
+      "Understanding project objectives",
+      "Reporting on project progress"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a primary characteristic that is common to all projects?",
+    "options": [
+      "construction",
+      "milestones",
+      "risk management",
+      "resourcing"
+    ]
+  },
+  {
+    "question": "Which of the following may be part of a framework to deal with risk in a project?",
+    "options": [
+      "all of the other answers",
+      "Risk identification",
+      "Risk analysis and prioritisation",
+      "Risk planning",
+      "Risk monitoring"
+    ]
+  },
+  {
+    "question": "Net Present Value is a project evaluation technique that:",
+    "options": [
+      "Takes into account the profitability of a project and the timing of the cash flows that are produced",
+      "Calculates the total cost of a project",
+      "Provides a measure of project progress",
+      "None of the other answers"
+    ]
+  },
+  {
+    "question": "When a project is considered risky it is common to:",
+    "options": [
+      "Use a higher discount rate for Net present Value",
+      "Use a lower discount rate to calculate the Net Present Value",
+      "Not calculate Net Present Value at all",
+      "None of the other answers"
+    ]
+  },
+  {
+    "question": "Software project effort and cost estimation occur:",
+    "options": [
+      "all of the other answers",
+      "At the planning phase of the project",
+      "During the feasibility study",
+      "At various stages of the project"
+    ]
+  },
+  {
+    "question": "Activity planning involves:",
+    "options": [
+      "all of the other answers",
+      "Feasibility study",
+      "Resource allocation",
+      "Detailed costing",
+      "Motivation"
+    ]
+  },
+  {
+    "question": "Is it true that planning is only necessary for large projects?",
+    "options": [
+      "False",
+      "True"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a project variance?",
+    "options": [
+      "Reporting variance",
+      "Time variance",
+      "Cost variance",
+      "Schedule variance"
+    ]
+  }
+]
