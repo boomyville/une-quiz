@@ -405,6 +405,15 @@
     ]
   },
   {
+    "question": "Your team has created several documents that serve as historical records for future projects. These historical documents are archived:",
+    "options": [
+      "During closure",
+      "Throughout the project",
+      "Before the end of the Planning process",
+      "Before the end of the Execution process"
+    ]
+  },
+  {
     "question": "All of the following statements are true of project closure except:",
     "options": [
       "It should be closed with the project execution",
@@ -501,6 +510,141 @@
       "Time variance",
       "Cost variance",
       "Schedule variance"
+    ]
+  },
+  {
+    "question": "What was the primary motivation for developing the PRINCE2 standard? (* Not from tutorials)",
+    "options": [
+      "To reduce the high rate of software project failures",
+      "To create a new certification program",
+      "To replace traditional project management methods",
+      "To standardize government projects"
+    ]
+  },
+  {
+    "question": "Which principle allows PRINCE2 projects to operate with minimal senior management intervention? (* Not from tutorials)",
+    "options": [
+      "Manage by exception",
+      "Product focus",
+      "Continuous improvement",
+      "Stage-based planning"
+    ]
+  },
+  {
+    "question": "How many core processes are there in PRINCE2? (* Not from tutorials)",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT one of the tolerance categories in PRINCE2? (* Not from tutorials)",
+    "options": [
+      "Resources",
+      "Time",
+      "Cost",
+      "Quality"
+    ]
+  },
+  {
+    "question": "During which process is the Project Initiation Documentation prepared? (* Not from tutorials)",
+    "options": [
+      "Initiation",
+      "Start-up",
+      "Direction",
+      "Control"
+    ]
+  },
+  {
+    "question": "What is the main purpose of the Stage Boundary process? (* Not from tutorials)",
+    "options": [
+      "To review current stage performance and gain approval for the next stage",
+      "To close the project",
+      "To start new work packages",
+      "To manage project risks"
+    ]
+  },
+  {
+    "question": "How many themes are there in PRINCE2? (* Not from tutorials)",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "question": "What type of report is produced at regular intervals to inform the project board of project progress? (* Not from tutorials)",
+    "options": [
+      "Highlight report",
+      "Checkpoint report",
+      "Exception report",
+      "End project report"
+    ]
+  },
+  {
+    "question": "Which organization originally developed PRINCE in 1989? (* Not from tutorials)",
+    "options": [
+      "CCTA (Central Computer and Telecommunications Agency UK)",
+      "PMI (Project Management Institute)",
+      "AXELOS",
+      "OGC (Office of Government Commerce)"
+    ]
+  },
+  {
+    "question": "What is a key difference between PRINCE2 and standard project management regarding changes during execution? (* Not from tutorials)",
+    "options": [
+      "PRINCE2 allows for changes during execution while standard PM minimizes them",
+      "PRINCE2 prohibits all changes during execution",
+      "Both methods handle changes the same way",
+      "Standard PM encourages more changes than PRINCE2"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT one of the seven PRINCE2 themes?",
+    "options": [
+      "Communication",
+      "Business Case",
+      "Risk",
+      "Progress"
+    ]
+  },
+  {
+    "question": "The PRINCE2 principle \"Focus on Products\" emphasizes:",
+    "options": [
+      "Delivering products that meet stakeholder expectations and quality standards",
+      "Completing the project as quickly as possible",
+      "Minimizing costs at the expense of quality",
+      "Ignoring stakeholder feedback"
+    ]
+  },
+  {
+    "question": "According to PMI's Code of Ethics, a project manager should:",
+    "options": [
+      "Report conflicts of interest and act with integrity",
+      "Accept gifts from vendors without disclosure",
+      "Ignore unethical behaviour if it benefits the project",
+      "Prioritize personal gain over stakeholder interests"
+    ]
+  },
+  {
+    "question": "Which of the following is a benefit of maintaining ethical standards in project management?",
+    "options": [
+      "Increased trust and respect from peers",
+      "Higher short-term profits at the expense of long-term reputation",
+      "Reduced transparency in decision-making",
+      "Ignoring stakeholder concerns"
+    ]
+  },
+  {
+    "question": "When faced with an ethical dilemma, a project manager should FIRST:",
+    "options": [
+      "Consult the organization's code of conduct or ethics policy",
+      "Make a decision based on personal preferences",
+      "Ignore the issue and hope it resolves itself",
+      "Ask the team to vote on the best course of action"
     ]
   }
 ]
